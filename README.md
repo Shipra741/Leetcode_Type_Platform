@@ -1,6 +1,6 @@
 # Leetcode_Type_Platform
 
-# This project is a simple platform where users can submit code for processing, similar to Leetcode.In thie I have used Redis to manage the queue of code submissions and MongoDB to store user submissions and results.
+# This project is a simple platform where users can submit code for processing, similar to Leetcode.In this I have used Redis to manage the queue of code submissions and MongoDB to store user submissions and results.
 
 # Express Backend: Manages API endpoints for submitting code and checking submission statuses.
 Workers: Processes the code submissions from the queue.
